@@ -38,7 +38,8 @@ Feel free to explore my repositories and reach out if you have any questions or 
     <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" /> </a>
 </p>
 
-<!--## Stats
+## Stats
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syed-arieb&" alt="syed-arieb" /></p>
------->
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Syed-Arieb&theme=transparent&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+</p>
