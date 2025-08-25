@@ -41,5 +41,5 @@ Feel free to explore my repositories and reach out if you have any questions or 
 ## Stats
 
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Syed-Arieb&theme=transparent&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Wed" alt="GitHub Streak" /></a>
+    <img src = "https://github-readme-stats.vercel.app/api?username=Syed-Arieb&theme=merko">
 </p>
