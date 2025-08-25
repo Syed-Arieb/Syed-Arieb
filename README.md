@@ -18,7 +18,13 @@ I'm a university student passionate about software development, particularly in 
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities! 😊
 
-## 🚀 Languages & Tools
+## Stats
+
+<p align="center">
+    <img src = "https://github-readme-stats.vercel.app/api?username=Syed-Arieb&theme=merko">
+</p>
+
+## Languages & Tools
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="48" height="48" style="margin: 20px;"/>
@@ -41,12 +47,4 @@ Feel free to explore my repositories and reach out if you have any questions or 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="48" height="48" style="margin: 10px;"/>
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="48" height="48" style="margin: 10px;"/>
-</p>
-
-
-
-## Stats
-
-<p align="center">
-    <img src = "https://github-readme-stats.vercel.app/api?username=Syed-Arieb&theme=merko">
 </p>
