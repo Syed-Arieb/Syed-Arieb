@@ -1,28 +1,31 @@
 # Hi there, I'm Syed Muhammad Arieb! 👋
+Software Engineer | Web (PHP/.NET) & Desktop (Python/Qt)
 
-I'm a university student passionate about software development, particularly in Qt. I also run a business on Fiverr where I offer my skills to help clients build their projects. 
+I am a results-driven Software Engineer focused on building reliable, full-stack web solutions and intuitive desktop interfaces. My experience ranges from developing AI-driven desktop UIs to engineering robust backends and responsive frontends for international clients. 
 
-## About Me
+## 🚀 Professional Highlights
 
-- 🎓 Currently pursuing my degree in Computer Science at IMSciences
-- 💼 Owner of [BuildIt](https://www.fiverr.com/buildit_), where I provide development services
-- 💻 Proficient in Qt framework for desktop application development
-- 🌱 Always eager to learn and explore new technologies
+- <strong>Full Stack Engineering:</strong> Recently built and maintained high-performance web features at Idealogy France, using PHP, SQL, and Tailwind CSS to deliver stable code under tight deadlines.
+- <strong>Desktop Development:</strong> Specialized in creating intuitive UIs for AI-integrated applications using Python, PySide6 (Qt) and Qt C++.
+- <strong>Enterprise Web:</strong> Strengthened backend expertise at Synergy Pakistan by building and integrating RESTful APIs within the ASP.NET and Angular ecosystem
 
-## Get in Touch
+## 🛠️ Tech Stack & Tools
 
-- 📫 You can reach me via email at [syedarieb56@gmail.com](mailto:syedarieb56@gmail.com)
-- 💼 Check out my work on [Fiverr](https://www.fiverr.com/buildit_)
+- **Languages**: PHP, Python, JavaScript, C++, C# (.NET)
+- **Frontend**: Tailwind CSS, jQuery, Angular, CSS3, HTML5
+- **Backend/Data**: ASP.NET, SQL (MySQL/MariaDB), RESTful APIs
+- **Desktop**: Qt Framework (PySide6/PyQt)
 
-## Projects
+## 🎓 Education & Background
 
-Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities! 😊
+- **BS in Computer Science** – Institute of Management Sciences (2021–2025)
+- **Freelance** – Providing specialized development services on Fiverr.
+- **Philosophy**: I prioritize writing clean, scalable code and never stop learning new ways to solve complex architectural challenges.
 
-## Stats
+## 📫 Get in Touch
 
-<p align="center">
-    <img src = "https://github-readme-stats.vercel.app/api?username=Syed-Arieb&theme=merko">
-</p>
+- LinkedIn: [linkedin.com/in/syed-m-arieb](https://www.linkedin.com/in/syed-m-arieb/)
+- Email: syedarieb56@gmail.com
 
 ## Languages & Tools
 
