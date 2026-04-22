@@ -51,3 +51,7 @@ I am a results-driven Software Engineer focused on building reliable, full-stack
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="48" height="48" style="margin: 10px;"/>
 </p>
+
+<div align="center">
+![Nothing](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+</div>
