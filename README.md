@@ -42,8 +42,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-syed--m--arieb-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/syed-m-arieb/)
 [![Email](https://img.shields.io/badge/Email-syedarieb56@gmail.com-red?style=flat&logo=gmail)](mailto:syedarieb56@gmail.com)
-[![Fiverr](https://img.shields.io/badge/Fiverr-freelance-1DBF73?style=flat&logo=fiverr)](https://www.fiverr.com)
 
 ---
 
-![snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![](https://streak-stats.demolab.com/?user=Syed-Arieb&theme=dark&hide_border=true)<br/>
